@@ -45,13 +45,7 @@ body {
 .weather-app .weather-details {
   margin-top: 20px;
 }
-.weather-app .weather-temperature .active {
-  color: black;
-  cursor: default;
-}
-.weather-app .weather-temperature .active:hover {
-  text-decoration: none;
-}
+
 .weather-app .weather-temperature img {
   margin-right: 10px;
   margin-bottom: 10px;
@@ -74,9 +68,4 @@ body {
   width: 65px;
   margin-right: 10px;
   display: inline-block;
-}
-
-.weather-app #icon {
-  width: 100px;
-  height: 100px;
 }
