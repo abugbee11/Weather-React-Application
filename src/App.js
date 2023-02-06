@@ -8,7 +8,11 @@ export default function App() {
         <Weather defaultCity="New York" />
         <footer>
           Open source code by{" "}
-          <a href="https://www.linkedin.com/in/abugbee/" target="_blank">
+          <a
+            href="https://www.linkedin.com/in/abugbee/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             Adrienne Bugbee
           </a>{" "}
           available on{" "}
@@ -18,7 +22,14 @@ export default function App() {
           >
             GitHub
           </a>{" "}
-          and hosted by Netlify
+          and hosted by{" "}
+          <a
+            href="https://stately-kataifi-ad4a69.netlify.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Netlify
+          </a>
         </footer>
       </div>
     </div>
