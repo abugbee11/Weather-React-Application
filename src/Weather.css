@@ -70,8 +70,9 @@ body {
   top: -35px;
   margin-left: 5px;
 }
-.weather-app img.current-image {
-  width: 100px;
+.weather-app canvas {
+  width: 65px;
+  margin-right: 10px;
   display: inline-block;
 }
 
