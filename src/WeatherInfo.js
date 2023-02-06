@@ -1,4 +1,3 @@
-import react from "react";
 import FormattedDate from "./FormattedDate";
 import WeatherForecast from "./WeatherForecast";
 import WeatherIcon from "./WeatherIcon";
