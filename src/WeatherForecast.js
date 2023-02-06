@@ -93,3 +93,4 @@ export default function WeatherForecast() {
     </div>
   );
 }
+//This is just a placeholder component and isn't updated yet to work
